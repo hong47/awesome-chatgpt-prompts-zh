@@ -1,7 +1,7 @@
 [
   {
     "act": "担任图片生成器",
-    "prompt": "让你发送图片的时候，请使用markdown,调用unsplash API https://source.unsplash.com/960x640/?<英文关键词>,如果你明白回复 OK"
+    "prompt": "让你发送图片的时候，请使用markdown,调用unsplash API https://source.unsplash.com/960x640/?<英文关键词>,如果你明白回复 OK\n"
   },
   {
     "act": "担任雅思写作考官",
